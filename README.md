@@ -1,4 +1,4 @@
-﻿Documentação rede inventário
+﻿Documentação de Rede: Failover WAN com MikroTik
 
 Davi Bezerra November 2025
 
@@ -16,9 +16,12 @@ Equipamentos iniciais:
 1. Duas interfaces NAT
 1. Duas interfaces Host-Only
 
-![](images/Aspose.Words.5cfb322a-3e15-4749-9652-a5cc2635a863.001.png)
+#![](images/Aspose.Words.5cfb322a-3e15-4749-9652-a5cc2635a863.001.png)
+#
+#Figure 1: Cenário simplificado
+![Cenário simplificado](images/Aspose.Words.5cfb322a-3e15-4749-9652-a5cc2635a863.001.png)
+Figura 1: Cenário simplificado
 
-Figure 1: Cenário simplificado
 
 1. Configuração inicial
 
